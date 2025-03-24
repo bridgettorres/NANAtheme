@@ -1,0 +1,17 @@
+{
+    "iconDefinitions": {
+      "folderIcon": {
+        "iconPath": "./icons/vv2.png"
+      },
+      "fileIcon": {
+        "iconPath": "./icons/vv.png"
+      }
+    },
+    "fileIcons": {
+      "*": "folderIcon"
+    },
+    "folder": "folderIcon",
+    "folderExpanded": "folderIcon",
+    "file": "fileIcon"
+  }
+  

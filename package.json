@@ -1,0 +1,34 @@
+{
+  "name": "nanatheme",
+  "displayName": "NANA theme",
+  "description": "A theme inspired by the anime NANA",
+  "publisher": "BridgetTorres",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridgettorres/NANAtheme.git"
+  },
+  "keywords": ["dark theme", "anime", "nana"],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NANA theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NANA theme-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "nanaIcons",
+        "label": "NANA Icons",
+        "path": "./themes/file-icon-theme.json"
+      }
+    ]
+  }
+}
