@@ -15,6 +15,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "./themes/icons/nanapic.png",
   "contributes": {
     "themes": [
       {
