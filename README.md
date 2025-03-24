@@ -2,8 +2,8 @@
 
 Creating a VSCode theme for NANA fans.  
 
-## Installation  
-1. Go to **Preferences** → **File Icon Theme**.  
+## Theme
+1. This VSCode theme comes in two variations: Light (Nana Komatsu) and Dark (Nana Osaki). You can choose between them based on your preference  
 2. Enable file/folder icons for the best experience.  
 
 ## Feedback  

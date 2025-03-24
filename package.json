@@ -7,8 +7,8 @@
     "type": "git",
     "url": "https://github.com/bridgettorres/NANAtheme.git"
   },
-  "keywords": ["dark theme", "anime", "nana"],
-  "version": "0.0.2",
+  "keywords": ["dark theme", "light theme", "anime", "nana", "hachi"],
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -22,6 +22,11 @@
         "label": "NANA theme",
         "uiTheme": "vs-dark",
         "path": "./themes/NANA theme-color-theme.json"
+      },
+      {
+        "label": "HACHI theme",
+        "uiTheme": "vs",
+        "path": "./themes/hachitheme-color-theme.json"
       }
     ],
     "iconThemes": [
